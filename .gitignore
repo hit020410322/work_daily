@@ -1,0 +1,5 @@
+vscode-project/.vscode/
+*.ilk
+*.exe
+*.obj
+*.pdb
