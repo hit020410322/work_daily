@@ -1,0 +1,3 @@
+[submodule "doc/develop_note"]
+	path = doc/develop_note
+	url = https://github.com/hit020410322/develop_note.git
